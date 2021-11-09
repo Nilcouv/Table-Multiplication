@@ -1,3 +1,3 @@
 ﻿# Table Multiplication
 
-Programme affichant la table de multiplication d'un nombre dans la console.
+small python software showing the multiplication tables for a given number, made for JetBrains Academy.
